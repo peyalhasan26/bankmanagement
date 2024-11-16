@@ -22,19 +22,5 @@ FIRST Download
 
 7.Run the script http://localhost/bank
 
-**LOGIN DETAILS** 
 
-Manager
-Username:   manager@manager.com
-Passwored:  manager
 
-Cashier
-Username :cashier@cashier.com
-Password :cashier
-
-User
-Username: some@gmail.com
-Password: some
-
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
